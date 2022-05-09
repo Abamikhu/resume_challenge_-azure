@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Azure Resume Project Page
+
+Below you will find more about my Azure resume project.  
 
 You can use the [editor on GitHub](https://github.com/Abamikhu/resume_challenge_-azure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
